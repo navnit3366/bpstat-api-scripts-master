@@ -1,0 +1,16 @@
+.DS_Store
+*.tmp
+*.un~
+*.swp
+*.bak
+*.pyc
+*.pyo
+*.log
+*~
+__pycache__
+.vagrant*
+.orig
+.coverage
+htmlcov
+
+bpstat-venv
